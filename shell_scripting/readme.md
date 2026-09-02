@@ -1,1 +1,1 @@
-![Output Screenshot](ss1.png)
+![Output Screenshot](/images/ss1.png)
